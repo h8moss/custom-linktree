@@ -1,0 +1,7 @@
+{
+	"name": "custom-linktree",
+	"compatibility_date": "2026-11-22",
+	"assets": {
+		"directory": "./build"
+	}
+}
