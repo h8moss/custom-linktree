@@ -26,7 +26,7 @@
 	<main class="relative mx-auto flex min-h-dvh max-w-md flex-col items-center px-4 py-16 sm:py-24">
 		<header class="flex flex-col items-center text-center">
 			<div
-				class="rounded-full bg-gradient-to-br from-violet-400 via-purple-600 to-fuchsia-600 p-[2px] shadow-[0_0_40px_-5px] shadow-violet-600/60"
+				class="rounded-full bg-gradient-to-br from-violet-500 via-purple-600 to-fuchsia-600 p-[2px] shadow-[0_0_40px_-5px] shadow-violet-600/60"
 			>
 				<div
 					class="grid size-24 place-items-center rounded-full bg-zinc-950 text-3xl font-semibold tracking-tight text-violet-200"
